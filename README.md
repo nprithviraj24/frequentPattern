@@ -14,9 +14,9 @@ Clone the project into your-workspace/project-folder.
   ## Running the tests
     
      Initially select any Database, since I've worked with Postgres below is there is link to sample table in the database I've worked on.
-       ![Database example](/database.png?raw=true "Optional Title")
+     ![Database example](/database.png?raw=true "Optional Title")
 
-     ### Assumptions
+  ### Assumptions
         There are five items: A, B, C, D, and E. 
         "1" signifies that item is bought at that transaction, 0 for otherwise.
         Six transactions are recorded.
